@@ -1,0 +1,3 @@
+I didnt post this npm package in the npm registry you can do it yourself.
+
+Any suggestions on what to make on js please contact my email: omarhachichogithub@gmail.com
