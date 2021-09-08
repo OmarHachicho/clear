@@ -1,5 +1,5 @@
 {
-  "name": "node-clear",
+  "name": "amazing-clear",
   "version": "1.0.0",
   "description": "Clear the terminal screen",
   "main": "clear.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "test"
+    "url": "https://github.com/OmarHachicho/clear.git"
   },
   "keywords": [
     "clear",
@@ -17,3 +17,4 @@
   "author": "omarhachicho",
   "license": "MIT"
 }
+
